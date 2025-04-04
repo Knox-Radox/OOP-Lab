@@ -1,0 +1,3 @@
+1743699056694 - Application started
+1743699056715 - User logged in
+1743699056716 - User performed an action
